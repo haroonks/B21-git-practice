@@ -6,6 +6,11 @@ public class Hello {
         //watching more of the movie
         //more changes
         //final work is done
-        //another final 10 mins before going back to living room
+        // movie on the phone for 10 mins
+        // movie on the phone for 20 mins
+        //Oh I like this movie who played it? let me continue
+        //watching movie3
+
+
     }
 }
